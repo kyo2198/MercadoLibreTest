@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fddc13</color>
+    <color name="colorPrimaryDark">#f5d415</color>
+    <color name="colorAccent">#4082e3</color>
+    <color name="colorSecondary">#ffda4e</color>
+    <color name="background">#eeeeee</color>
+    <color name="titles">#333333</color>
+    <color name="subtitles">#666666</color>
+    <color name="benefits">#00a650</color>
+    <color name="state">#999999</color>
+    <color name="noInternet">#f14448</color>
+</resources>
